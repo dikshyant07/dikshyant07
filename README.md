@@ -1,10 +1,9 @@
 # 💫 About Me:
 Student | Passionate about Backend Development | Exploring Java, Spring Boot & APIs  
 
-🌱 Currently learning **Spring Boot** & **React**  
-💬 Ask me about **Java, APIs, or backend development**  
-⚡ Fun fact: I love building things that make life easier  
-
+🌱 Currently learning Spring Boot, React, and the Spring Ecosystem (Spring Security, Spring Data JPA)
+⚙️ Focused on writing clean and maintainable code using DTOs, validators, and proper project structure
+🔒 Goal: To build secure and efficient backend applications
 ---
 
 # 🌐 Socials:
