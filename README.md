@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 Student | Passionate about Backend Development | Exploring Java, Spring Boot & APIs  
 
 🌱 Currently learning Spring Boot, React, and the Spring Ecosystem (Spring Security, Spring Data JPA)  
@@ -7,12 +7,12 @@ Student | Passionate about Backend Development | Exploring Java, Spring Boot & A
 
 ---
 
-# 🌐 Socials:
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dikshanta-acharya-0097122a7/?originalSubdomain=np)
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -25,7 +25,7 @@ Student | Passionate about Backend Development | Exploring Java, Spring Boot & A
 
 ---
 
-# ⚙️ Tools:
+# ⚙️ Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
@@ -35,16 +35,16 @@ Student | Passionate about Backend Development | Exploring Java, Spring Boot & A
 
 ---
 
-# 📊 GitHub Stats:
-![Dikshanta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshanta8080&show_icons=true&count_private=true&theme=dark)
+# 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dikshanta8080&show_icons=true&count_private=true&theme=dark&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshanta8080&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dikshanta8080&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
 
-# 🔝 Top Contributed Repo
-![Top Repositories](https://github-contributor-stats.vercel.app/api?username=dikshanta8080&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 🔝 Top Contributed Repos
+![Top Repositories](https://github-contributor-stats.vercel.app/api?username=dikshanta8080&limit=5&theme=dark&combine_all_yearly_contributions=true&cache_seconds=1800)
+
+---
 
 
-
-[![](https://visitcount.itsvg.in/api?id=dikshanta8080&icon=0&color=0)](https://visitcount.itsvg.in)
